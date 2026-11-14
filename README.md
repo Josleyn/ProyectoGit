@@ -8,3 +8,5 @@ Este repositorio permite practicar el trabajo organizado con control de versione
 Esta seccion fue agregada desde la rama feature/documentacion.
 ## Sincronizacion 
 Este cambio se realizo desde una copia clonada del repositorio.
+## Cambio que se va a revertir 
+Esta seccion se agregara temporalmente para practicar  git revert.
