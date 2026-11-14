@@ -6,3 +6,5 @@ Practica GIT Y GITHUBS
 Este repositorio permite practicar el trabajo organizado con control de versiones.
 ## Cambios de la rama 
 Esta seccion fue agregada desde la rama feature/documentacion.
+## Sincronizacion 
+Este cambio se realizo desde una copia clonada del repositorio.
